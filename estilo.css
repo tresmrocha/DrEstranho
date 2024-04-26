@@ -1,0 +1,56 @@
+.img1{
+    background-image: url(img/capa.jpg);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 50px;
+    h1{
+        background-color: black;
+        color: white;
+        text-align: center;
+        width: 300px;
+        margin: 0 auto;
+    }
+    h2{
+        background-color: red;
+        color: white;
+        text-align: center;
+        width: 300px;
+        margin: 0 auto;
+    }
+}
+
+.informacoes{
+    text-align: center;
+    padding: 10px;
+}
+
+.img2{
+    background-image: url(img/doutor-estranho-feiticeira-escarlate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400px;
+}
+
+.sinopse{
+    text-align: center;
+    padding: 20px;
+}
+
+span{
+    background-color: red;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.img3{
+    background-image: url(img/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 750px;
+}
+
